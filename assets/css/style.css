@@ -26,3 +26,29 @@ header ul li a {
     font-weight: 400;
     font-size: 15px;
 }
+
+.logo-container{
+    text-align: center;
+}
+
+.pre-header {
+    height: 530px;
+}
+.pre-header {
+    background-image: url('../images/bg-poster.png');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+form {
+    text-align: center;
+    margin-left: 100px;
+
+}
+
+input[type="search"]{
+   width: 700px;
+   height: 60px;
+   border-radius: 20px;
+   border: none;
+}
